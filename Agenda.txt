@@ -1,0 +1,7 @@
+1- MVC [ Model(Class -> DB) - View(Interact User) - Controller(Layer Between User&Model) ]
+2- Routes [End Points]
+3-Validations ==> ajv [another json schema validators] ==> npm i ajv ==> compile(schema)
+4- Utils [helpers]
+
+5-Authentication[Login-Reg (User??)] VS Authurization(Permissions)
+6-JWT [Json Web Token] ==> verify()
